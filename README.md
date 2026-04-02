@@ -7,6 +7,6 @@ Will hold my design, ideas, planning and documentation for my home lab I hope to
 
 # **Components**
 
-# **Design Choices**
+# **Design Choices & Reasoning**
 
 
